@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BugTest-1.0-SNAPSHOT">
+    <output-path>C:\Users\jimne\Google Drive\My Stuff\BugTest\build\libs</output-path>
+    <root id="archive" name="BugTest-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="org.example.BugTest.main" />
+    </root>
+  </artifact>
+</component>
